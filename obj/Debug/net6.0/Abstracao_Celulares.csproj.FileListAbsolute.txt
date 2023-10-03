@@ -1,0 +1,15 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\bin\Debug\net6.0\Abstracao_Celulares.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\bin\Debug\net6.0\Abstracao_Celulares.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\bin\Debug\net6.0\Abstracao_Celulares.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\bin\Debug\net6.0\Abstracao_Celulares.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\bin\Debug\net6.0\Abstracao_Celulares.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\obj\Debug\net6.0\Abstracao_Celulares.csproj.AssemblyReference.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\obj\Debug\net6.0\Abstracao_Celulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\obj\Debug\net6.0\Abstracao_Celulares.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\obj\Debug\net6.0\Abstracao_Celulares.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\obj\Debug\net6.0\Abstracao_Celulares.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\obj\Debug\net6.0\Abstracao_Celulares.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\obj\Debug\net6.0\refint\Abstracao_Celulares.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\obj\Debug\net6.0\Abstracao_Celulares.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\obj\Debug\net6.0\Abstracao_Celulares.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Abstracao_Celulares\obj\Debug\net6.0\ref\Abstracao_Celulares.dll

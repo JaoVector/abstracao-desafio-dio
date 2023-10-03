@@ -1,0 +1,22 @@
+[
+  {
+    "OS": "Android 12",
+    "QtdCameras": 3,
+    "Modelo": "Galaxy Flip"
+  },
+  {
+    "OS": "Android 13",
+    "QtdCameras": 4,
+    "Modelo": "Galaxy Z"
+  },
+  {
+    "OS": "Android 14",
+    "QtdCameras": 6,
+    "Modelo": "Galaxy Note"
+  },
+  {
+    "OS": "Android 14",
+    "QtdCameras": 5,
+    "Modelo": "Galaxy S23"
+  }
+]

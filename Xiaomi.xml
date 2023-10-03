@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Xiaomi>
+    <Modelo>Mi 7</Modelo>
+    <QtdCameras>4</QtdCameras>
+    <OS>Android 13.02</OS>
+  </Xiaomi>
+  <Xiaomi>
+    <Modelo>Mi 9</Modelo>
+    <QtdCameras>5</QtdCameras>
+    <OS>Android 13.02</OS>
+  </Xiaomi>
+  <Xiaomi>
+    <Modelo>Mi 11</Modelo>
+    <QtdCameras>6</QtdCameras>
+    <OS>Android 14.02</OS>
+  </Xiaomi>
+  <Xiaomi>
+    <Modelo>Mi 5</Modelo>
+    <QtdCameras>3</QtdCameras>
+    <OS>Android 12.02</OS>
+  </Xiaomi>
+</Root>
